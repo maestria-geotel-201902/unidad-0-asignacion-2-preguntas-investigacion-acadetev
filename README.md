@@ -11,12 +11,12 @@ Son múltiples las aplicaciones del análisis espacial desde las que podrías co
 
 Mi/s pregunta/s de investigación es/son la/s siguiente/s (sustitye los puntos suspensivos por tus preguntas, no borres el símbolo \*).
 
-* ...
+* Es posible determinar la dinámica de cambio espacio-temporal del la cuenca Alta Río Yuna a partir de variables biofísicas obtenidas de datos satelitales?
 
-* ...
+* Se podria en Rs determinar el sistema agroforestal de la cuenca Alta Río Yuna mediante imagenes sentinel 2?
 
-* ...
+* ¿Cuál es el nivel de contaminación de la cuenca Alta Río Yuna y niveles de afectación  de sus comunitarios?  Enfermedades más comunes entre estos.
 
-* ...
+* Cambios de cobertura forestal en la cuenca en un periodo de 20 años.
 
 * ...
